@@ -11,3 +11,5 @@
 
 # Jupyter
 .ipynb_checkpoints/
+
+shp-to-geoparquet/
